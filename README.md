@@ -1,5 +1,7 @@
 # ocp-drain-monitor
 
+⚠️ This project has been deprecated in favour of <https://github.com/appuio/openshift-upgrade-controller>. ⚠️
+
 `ocp-drain-monitor` watches OpenShift Nodes and updates the node draining metric.
 The metrics are calculated based on annotations from the [OpenShift machine-config-operator](https://github.com/openshift/machine-config-operator).
 
